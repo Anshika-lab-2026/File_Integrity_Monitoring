@@ -1,0 +1,4 @@
+# This project intentionally uses only Python's standard library
+# (hashlib, os, json, argparse, logging, time) so there is nothing
+# heavy to install. pytest is listed only so you can run the test suite.
+pytest>=7.0.0
